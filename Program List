@@ -1,0 +1,16 @@
+Part A Programs
+1.Frame Sort using appropriate sorting techniques.       
+2.Eror detection code using CRC-CCITT (16 bits).
+3.Shortest path using Bellman Ford algorithm.
+4.TCP/IP Socket client and Server program. 
+5.UDP  client and Server program. 
+6.Simple RSA algoritm to encrypt and decrypt.
+7.Congestion control using Leaky Bucket algorithm.
+8.Random Early ddetection (RED) congestion control algorithm.
+9.Congestion control using Token Bucket algorithm.
+
+Part B programs
+1.Point to point network with duplex links.
+2.Transmission of ping message over network topology.
+3.Implement Ethernet LAN using n nodes.
+4.Implement simple ESS.
