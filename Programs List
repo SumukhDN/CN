@@ -1,4 +1,4 @@
-Part A Programs
+#Part A Programs
 1.Frame Sort using appropriate sorting techniques.       
 2.Eror detection code using CRC-CCITT (16 bits).
 3.Shortest path using Bellman Ford algorithm.
@@ -9,7 +9,7 @@ Part A Programs
 8.Random Early ddetection (RED) congestion control algorithm.
 9.Congestion control using Token Bucket algorithm.
 
-Part B programs
+#Part B programs
 1.Point to point network with duplex links.
 2.Transmission of ping message over network topology.
 3.Implement Ethernet LAN using n nodes.
