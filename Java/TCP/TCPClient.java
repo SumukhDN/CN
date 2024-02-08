@@ -1,4 +1,4 @@
-//TCPClient java program
+//TCP Client java program
 
 import java.net.Socket;
 import java.io.IOException;
