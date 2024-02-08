@@ -11,7 +11,6 @@ public class BellmanFord{
         int[] dist = new int[n];
         Arrays.fill(dist,Integer.MAX_VALUE);
         dist[src]=0;
-        
         for(int i=1;i<n;i++){
             for(int u=0;u<n;u++){
                 for(int v=0;v<n;v++){
