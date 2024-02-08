@@ -1,4 +1,4 @@
-//TCPServer java program
+//TCP Server java program
 
 import java.io.File;
 import java.io.IOException;
