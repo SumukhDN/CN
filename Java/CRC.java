@@ -6,6 +6,7 @@ public class CRC {
             for (int i = 0; i < poly.length() - 1; i++)
                 rem += "0";
         }
+        
         for (int i = 0; i < rem.length() - poly.length() + 1; i++) {
             if (rem.charAt(i) == '1') {
                 for (int j = 0; j < poly.length(); j++) {
@@ -15,6 +16,7 @@ public class CRC {
         }
         return rem.substring(rem.length() - poly.length() + 1);
     }
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String poly = "10000100010001010";
