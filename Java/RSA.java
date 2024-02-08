@@ -1,3 +1,5 @@
+//RSA(Rivest, Shamir, Adleman) Encryption and Decryption Algorithm.
+
 import java.math.BigInteger;
 import java.util.Random;
 import java.util.Scanner;
