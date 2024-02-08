@@ -1,4 +1,4 @@
-//Leaky Bucket java program 
+//Leaky Bucket congestion control java program 
 
 import java.util.*;
 
