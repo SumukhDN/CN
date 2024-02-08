@@ -1,4 +1,4 @@
-//Random Early Detection (RED) java program
+//Random Early Detection (RED) congestion control java program
 
 import java.util.Random;
 
