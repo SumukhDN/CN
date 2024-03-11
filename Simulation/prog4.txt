@@ -1,4 +1,4 @@
-set ns [new Simulator]
+set ns [new Simulator].
 
 set topo [new Topography]
 $topo load_flatgrid 1500 1500
