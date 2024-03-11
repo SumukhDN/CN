@@ -1,4 +1,4 @@
-//FrameSorting java program
+//FrameSorting java program.
 
 import java.util.ArrayList;
 import java.util.Collections;
