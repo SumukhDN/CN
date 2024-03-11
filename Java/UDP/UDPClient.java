@@ -1,4 +1,4 @@
-//UDP Client java program
+//UDP Client java program.
 
 import java.net.*;
 import java.io.*;
