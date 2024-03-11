@@ -1,4 +1,4 @@
-//Token Bucket congestion control java program
+//Token Bucket congestion control java program.
 
 import java.util.Scanner;
 
