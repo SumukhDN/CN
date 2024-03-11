@@ -1,4 +1,4 @@
-set ns [new Simulator]
+set ns [new Simulator].
 
 set ntrace [open prog.tr w]
 $ns trace-all $ntrace
