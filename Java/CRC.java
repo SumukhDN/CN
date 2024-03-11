@@ -1,3 +1,5 @@
+//CRC java program. 
+
 import java.util.Scanner;
 public class CRC {
     public static String crc(String data, String poly, boolean errChk) {
