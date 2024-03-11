@@ -1,4 +1,4 @@
-//BellmanFord java program
+//BellmanFord java program.
 
 import java.util.Arrays;
 import java.util.Scanner;
